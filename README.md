@@ -20,7 +20,7 @@
 |--------------------|-------------------------|----------------------------------------------------|
 | URLSession         | 네이티브 URLSession 기반 구현 | 🔗 [바로가기](#) (추후 추가 예정)  Swift, URLSession |
 | Alamofire          | Alamofire 도입 개선 버전    | 🔗 [바로가기](#) (추후 추가 예정)  Swift, Alamofire  |
-| Alamofire + Router | Router 패턴 활용 최종 구조   | 🔗 [바로가기](#) (추후 추가 예정)  Swift, Alamofire, Router 패턴 |
+| Alamofire + Router | Router 패턴 활용 최종 구조   | 🔗 [바로가기](#https://github.com/devziwan/catapp-alamofire-router-toy) (추후 추가 예정)  Swift, Alamofire, Router 패턴 |
 
 > 각 저장소에서는 네트워크 구조 발전 과정을 확인할 수 있습니다.
 
