@@ -60,7 +60,10 @@
 - 실무에 적합한 네트워크 처리 방식 경험
 
 
+## API 출처
 
+- 본 프로젝트는 [The Cat API](https://thecatapi.com/)를 사용하여 고양이 이미지를 제공합니다.  
+- API 문서: https://docs.thecatapi.com/
 
 
 
