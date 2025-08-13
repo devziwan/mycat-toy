@@ -40,7 +40,7 @@
 
 | 고양이 랜덤 이미지 | 고양이 즐겨찾기 추가 + 목록 확인 | 내 앨범에서 고양이 이미지 추가 + 보관 장소 이동| 고양이 이미지 멀티 삭제 | 즐겨찾기 삭제 |
 |---|---|---|---|---|
-| <p>앱 실행 시 랜덤으로 고양이 이미지를 표시합니다.</p><img src="https://github.com/user-attachments/assets/899c507b-09dc-4cdc-b9ed-84e5e312ee30" width="250"/> | <p>릴스 화면에서 상세페이지 들어가 즐겨찾기 버튼 클릭 후<br>목록에 자동 추가됩니다.</p><img src="https://github.com/user-attachments/assets/e84c21a4-878f-4bb0-a2c1-d41e413b5f1f" width="250"/>  | <p>내 앨범에서 기기 사진을 선택하여<br>고양이 이미지를 업로드합니다.</p><img src="https://github.com/user-attachments/assets/55dbf9a9-8cf6-4a79-bb6e-916c0bc4eb59" width="250"/> | <p>여러 고양이 이미지를 선택 후<br>삭제 버튼을 눌러 한 번에 제거합니다.</p><img src="https://github.com/user-attachments/assets/2121fede-e27a-450b-b248-7b765fb019ef" width="250"/> | <p>즐겨찾기 목록에서 항목을 선택해<br>즐겨찾기를 해제합니다.</p><img src="https://github.com/user-attachments/assets/bbdde8af-4fdf-44df-b8f0-c16f985c6f34" width="250"/> |
+| <p>앱 실행 시 랜덤으로 고양이 이미지를 표시합니다.</p><img src="https://github.com/user-attachments/assets/899c507b-09dc-4cdc-b9ed-84e5e312ee30" width="250"/> | <p>릴스 화면에서 상세페이지 들어가 즐겨찾기 버튼 클릭 후<br>목록에 자동 추가됩니다. 목록 보기 버튼을 누르면 즐겨찾기 목록으로 이동</p><img src="https://github.com/user-attachments/assets/e84c21a4-878f-4bb0-a2c1-d41e413b5f1f" width="250"/>  | <p>내 앨범에서 기기 사진을 선택하여<br>고양이 이미지를 업로드합니다.</p><img src="https://github.com/user-attachments/assets/55dbf9a9-8cf6-4a79-bb6e-916c0bc4eb59" width="250"/> | <p>여러 고양이 이미지를 선택 후<br>삭제 버튼을 눌러 한 번에 제거합니다.</p><img src="https://github.com/user-attachments/assets/2121fede-e27a-450b-b248-7b765fb019ef" width="250"/> | <p>즐겨찾기 목록에서 항목을 선택해<br>즐겨찾기를 해제합니다.</p><img src="https://github.com/user-attachments/assets/bbdde8af-4fdf-44df-b8f0-c16f985c6f34" width="250"/> |
 
 
 ## 네트워크 통신 개선 과정
